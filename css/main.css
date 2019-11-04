@@ -6,3 +6,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h2 {
+  color: #fff;
+  background: rgba(0, 0, 0, .5);
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 2rem;
+  font-style: italic;
+}
