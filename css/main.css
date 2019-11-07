@@ -18,3 +18,19 @@ p {
   font-size: 2rem;
   font-style: italic;
 }
+
+.img-flex {
+  width: 100%;
+  display: block;
+}
+
+.banner {
+  position: relative;
+  max-height: 500px;
+}
+
+.banner-content {
+  max-width: 50em;
+  position: absolute;
+  bottom: 0;
+}
